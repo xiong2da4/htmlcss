@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  height: 200px;
+  width: 100%;
+  background: black;
+}
+
+.nav {
+  height: 20px;
+  width: 100%;
+  background: red;
+}
+
+.header-pic {
+  height: 180px;
+  width: 100%;
+  background: orange;
+}
+
+.wrapper {
+  height: 1000px;
+  width: 800px;
+  margin: 0 auto;
+  background: limegreen;
+}
+
+.main {
+  height: 1000px;
+  width: 400px;
+  margin: 0 auto;
+  background: green;
+}
+
+.footer {
+  height: 50px;
+  width: 100%;
+  background: blue;
+}
