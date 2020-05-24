@@ -21,7 +21,7 @@
 
 .list-item {
   padding:20px;
-  list-style: none;
+  list-style-type: none;
 }
 
 .content-box {
